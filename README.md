@@ -1,2 +1,3 @@
-# arquitetura-css usando metodologia Atomic Design
+# Arquitetura-css usando metodologia Atomic Design.
+
 curso de arquitetura da Alura. 
